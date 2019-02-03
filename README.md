@@ -2,7 +2,7 @@
 Model Evaluation & Validation Project [Udacity Machine Learning Engineer Nanodegree]
 
 ## Project Overview
-Develop a model to predict Boston housing price. Utilize sklearn techniques for training,, testing, evaluating and optimizing models.
+Develop a model to predict Boston housing price. Utilize sklearn techniques for training, testing, evaluating and optimizing models.
 
 
 ## Getting Started
