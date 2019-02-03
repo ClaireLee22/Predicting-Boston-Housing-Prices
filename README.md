@@ -4,8 +4,9 @@ Model Evaluation & Validation Project [Udacity Machine Learning Engineer Nanodeg
 ## Project Overview
 
 
-## Gettign Started
-### 
+
+## Getting Started
+### Prerequisites
 
 This project requires **Python** and the following Python libraries installed:
 
