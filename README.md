@@ -2,7 +2,22 @@
 Model Evaluation & Validation Project [Udacity Machine Learning Engineer Nanodegree]
 
 ## Project Overview
+### Project Description
 Develop a model to predict Boston housing prices. Utilize sklearn techniques for training, testing, evaluating and optimizing models.
+
+### Project Procedure
+- Explore the data
+- Develop a model using decision tree algorithm
+- Optimize model parameters using grid search
+- Predicting selling prices for 3 clients
+
+### Project Results
+- Predicted sellling price
+  |  | home price | 
+  | :---:   | :-: | 
+  | client 1 | $409,100.00 |
+  | client 2 | $285,600.00 |
+  | client 3 | $957,218.18 |
 
 
 ## Getting Started
@@ -21,7 +36,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, run one of the following commands:
 
 ```bash
 ipython notebook boston_housing.ipynb
