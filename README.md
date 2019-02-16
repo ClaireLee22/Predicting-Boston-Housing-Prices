@@ -13,6 +13,7 @@ Develop a model to predict Boston housing prices. Utilize sklearn techniques for
 
 ### Project Results
 - Predicted sellling price
+
   |  | home price | 
   | :---:   | :-: | 
   | client 1 | $409,100.00 |
