@@ -21,6 +21,7 @@ Develop a model to predict Boston housing prices. Utilize sklearn techniques for
   | client 3 | $957,218.18 |
 
 - Applicability of the constructed model
+
   Still have a big room to improve before being used in the real-world for below reasons:
   - The mdoel learn from a old dataset which has quite different value of money from current, so it will not able to make a accurate prediction for house price nowadays.
   - More features relevant to house prices should be considered such as location, economic growth and interest rate, etc.
