@@ -13,6 +13,7 @@ Develop a model to predict Boston housing prices. Utilize sklearn techniques for
 
 ### Project Results
 - Predicted sellling price
+  <img src="prediction_house_price.png">
 
   |  | home price | 
   | :---:   | :-: | 
